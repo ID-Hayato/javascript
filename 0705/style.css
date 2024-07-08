@@ -1,0 +1,13 @@
+#quiz{
+    display: flex;
+    list-style-type: none;
+    height: 300px;
+}
+li{
+width: 25%;
+
+}
+.img{
+    width: auto;
+height: 80%;
+}

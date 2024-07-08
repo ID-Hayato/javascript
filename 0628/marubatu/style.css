@@ -1,0 +1,23 @@
+#marubatu{
+    width: 500px;
+    height: 500px;
+border: 4px;
+background-color:black;
+}
+.mas{
+    background-color: white;
+    width: 33%;
+    height: 33%;
+}
+.maru{
+    height: 100%;
+  background-color: red;
+    border-radius: 300px;
+}
+.batu{
+    height: 100%;
+    background-color: blue;
+    clip-path: polygon(20% 0%, 0% 20%, 30% 50%, 0% 80%, 20% 100%, 50% 70%, 80% 100%, 100% 80%, 70% 50%, 100% 20%, 80% 0%, 50% 30%);
+    border-radius: 0px;  
+    border: none;
+}
